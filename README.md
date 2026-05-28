@@ -1,2 +1,2 @@
 # Quant-Research
-My Journey in exploring Quant
+Documenting my journey learning quantitative trading and building alphas on WorldQuant BRAIN
