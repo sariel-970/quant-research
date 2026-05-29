@@ -38,9 +38,9 @@ Added a second independent reversion signal based on recent price change to stre
 
 | Metric | Value | Requirement | Status |
 |--------|-------|-------------|--------|
-| Sharpe | 1.63 | ≥ 1.25 | ✅ |
-| Fitness | 1.01 | ≥ 1.0 | ✅ |
-| Turnover | 53.88% | 1%–70% | ✅ |
+| Sharpe | 1.63 | ≥ 1.25 | W |
+| Fitness | 1.01 | ≥ 1.0 | w |
+| Turnover | 53.88% | 1%–70% | W |
 | Returns | 20.67% | — | — |
 | Drawdown | 10.54% | — | — |
 
